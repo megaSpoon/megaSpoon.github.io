@@ -96,5 +96,5 @@ object HelloWorld {
 
 [^1]: I quote this piece of words from the tutorial since I have never thought of a good way to describe a hello world program. I guess this is a good one. Interesting words: structure, consists, as parameters, body of the method, call to predefined method. Also, this is a test for footnote feature in Markdown. And can anyone tell me a propriate way to write footnote? Can it be casually verbose like this?
 
-[^2]: 
+
 
