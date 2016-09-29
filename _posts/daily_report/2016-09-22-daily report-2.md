@@ -3,7 +3,7 @@ layout: post
 title: Daily Report - 09/22
 description: "daily report -- record what I learned today"
 modified: 2016-09-19
-tags: [daily log, Aex Honnald, inspiration]
+tags: [daily log, Alex Honnald, inspiration]
 image:
   feature: Alex Honnald.jpg
 
