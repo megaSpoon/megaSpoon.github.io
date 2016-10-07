@@ -27,13 +27,21 @@ fraud-detection
 		`-- classification
 			|-- Bagging.scala
 		`-- feature
-			`-- StraightfieldSampler.scala
+			`-- StraightfieldSampler.
+			scala
 			...
 		`-- pipeline
+			|-- FeaturePipeline
+			`-- FeaturesByCategory
+			`-- RandomizedParamsGridBuilder.scala
+
 		`-- util
 
 ---
-
+Q: 
+1. ++
+2. this.type
+3. 	mark directory as source root
 This is a self-contained application using the Spark API. 
 
 ---
@@ -41,7 +49,12 @@ This is a self-contained application using the Spark API.
 In Scala, you need to specify the **type signature** for **function parameters**. The interpreter happily repeats the type signature back to you.
 
 String*: multiple-String type
-You can leave parens on functions with no arguments.
+You can leave parens on functions with no arguments. varaible-length parameters.
+
+Converting a Collection to a String with mkString
+
+String Interpolation:
+ allows users to embed variable references directly in processed string literals. 
 
 If your function is made up of many expressions, you can use {} to give yourself some breathing room.
 
@@ -60,6 +73,8 @@ Here’s an example of a function that lets you build multipliers of two numbers
     ## look out for the space between ')' and _
     scala> timesTwo(3)
     res1: Int = 6
+
+You can take any function of multiple arguments and curry it. 
 
 
 Anonymous functions:

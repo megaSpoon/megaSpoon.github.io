@@ -11,6 +11,7 @@ image:
 
 ---
 # New words in the bank:
+09/20/2016
 
 * gravy:
 	fat and juice exuding from meat during cooking
@@ -19,3 +20,15 @@ image:
  * exude:
  	1. discharge(moisture or a smell) slowly and steadily
  	2. (of a person) display (an emotion or quality) strongly and openly
+
+09/21/2016:
+deploy:
+	- bring into effective action
+
+	The governmen deploys the proposal of reducing personal income tax of the California.
+
+induendo:
+	- a statement which indirectly suggests that someone has done something, improper, etc.
+	影射
+
+	This movie relies on sexual innuendo for its humor.

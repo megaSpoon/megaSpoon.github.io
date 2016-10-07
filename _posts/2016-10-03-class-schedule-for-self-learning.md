@@ -160,3 +160,10 @@ n is a variable, % and == are operators, and the if block is a statement.
 Integer overflows quietly produce the wrong answer.
 
 Division by zero can't produce a real number either -- but unlike real numbers, double has a special value for POSITIVE_INFINITY, so that's what it returns when you divide a positive integer by zero. If the code is trying to compute an average value, infinity is unlikely to be a correct or useful answer.
+
+Why do we need to write down our assumptions? Because programming is full of assumptions. If we don't write them down, we won't remember them, and other people who need to read or change our programs later won't know them. They'll have to guess.
+
+Programs have to be written with two goals in mind:
+
+- communicating with the computer. 	First persuading the compiler that your program is sensible — syntactically correct and type-correct — and then getting the logic right so that it gives the right results at runtime.
+- communicating with other people. Making the program easy to understand, so that when somebody has to fix it, improve it, or adapt it in the future, they can do so.
