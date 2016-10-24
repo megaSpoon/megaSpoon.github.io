@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: Daily Report - 10/20
 description: "daily report -- record what I learned today"
@@ -8,7 +8,6 @@ image:
   feature: TheKnightAtTheCrossroads.jpg
   credit: Vasnetsov
   creditlink: https://en.wikipedia.org/wiki/Viktor_Vasnetsov
-
 ---
 
 Scope of Protection

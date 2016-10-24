@@ -8,7 +8,6 @@ image:
   feature: TheKnightAtTheCrossroads.jpg
   credit: Vasnetsov
   creditlink: https://en.wikipedia.org/wiki/Viktor_Vasnetsov
-
 ---
 
 Under the hood:
