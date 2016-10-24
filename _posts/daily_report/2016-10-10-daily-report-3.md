@@ -12,7 +12,7 @@ image:
 
 ## String Interpolation
 
-[link][http://docs.scala-lang.org/overviews/core/string-interpolation.html]
+[link](http://docs.scala-lang.org/overviews/core/string-interpolation.html)
 
 String interpolation allows users to embed varaible references directly in processed string literals. 
 

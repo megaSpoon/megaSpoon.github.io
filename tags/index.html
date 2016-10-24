@@ -3,6 +3,8 @@ layout: post-index
 title: Tag Archive
 description: "An archive of posts sorted by tag."
 comments: false
+image:
+  feature: Final-lair-alws-phantom-of-the-opera-movie-1646867-500-331.jpg
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
