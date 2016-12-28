@@ -1,0 +1,27 @@
+---
+layout: post
+title: Daily Report - 12/06
+description: "daily report -- record what I learned today"
+modified: 2016-11-01
+tags: [daily log, education, learning ]
+image:
+  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
+  credit: huatunan
+  creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
+
+
+---
+
+Gitter online instant messaging and chat room for github developers. Focus on the communicaion of Github community.
+
+community env of any programming area:
+
+1. wikipedia
+2. tutorials/exercises
+3. mailing lists
+4. chat rooms
+5. user groups
+6. conferrences
+
+e.g. https://www.scala-lang.org/community/
+

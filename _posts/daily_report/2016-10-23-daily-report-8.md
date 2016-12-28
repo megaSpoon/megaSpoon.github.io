@@ -5,9 +5,9 @@ description: "daily report -- record what I learned today"
 modified: 2016-10-23
 tags: [daily log, ]
 image:
-  feature: TheKnightAtTheCrossroads.jpg
-  credit: Vasnetsov
-  creditlink: https://en.wikipedia.org/wiki/Viktor_Vasnetsov
+  feature: Lascaux/Lascaux_II.jpg
+  credit: Lascaux
+  creditlink: https://en.wikipedia.org/wiki/Lascaux
 ---
 
 Under the hood:

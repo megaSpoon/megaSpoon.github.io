@@ -1,0 +1,73 @@
+---
+layout: post
+title: Daily Report - 12/05
+description: "daily report -- record what I learned today"
+modified: 2016-11-01
+tags: [daily log, education, learning ]
+image:
+  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
+  credit: huatunan
+  creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
+
+
+---
+
+In computing, spooling is a specialized form of multi-programming for the purpose of copying data between different devices.
+
+In contemporary systems[a] it is usually used for mediating between a computer application and a slow peripheral, such as a printer.
+
+Spooling allows programs to "hand off" work to be done by the peripheral and then proceed to other tasks, or do not begin until input has been transcribed. A dedicated program, the spooler, maintains an orderly sequence of jobs for the peripheral and feeds it data at its own rate. Conversely, for slow input peripherals, such as a card reader, a spooler can maintain a sequence of computational jobs waiting for data, starting each job when all of the relevant input is available; see batch processing. The spool itself refers to the sequence of jobs, or the storage area where they are held. In many cases the spooler is able to drive devices at their full rated speed with minimal impact on other processing.
+
+中断与异常
+特权指令 与 寄存器
+系统调用
+处理器状态
+
+
+基础设施（英语：Infrastructure），亦称公共设施。是指为社会生产和居民生活提供公共服务的物质工程设施，它是社会赖以生存发展的一般物质条件。基础设施不仅包括公路、铁路、机场、通讯、水、电、煤气等公共设施，即俗称的基础建设，亦都包括教育、科技、医疗卫生、体育及文化等社会事业即“社会性基础设施”。
+
+pluginManagement: is an element that is seen along side plugins. Plugin Management contains plugin elements in much the same way, except that rather than configuring plugin information for this particular project build, it is intended to configure project builds that inherit from this one. However, this only configures plugins that are actually referenced within the plugins element in the children. The children have every right to override pluginManagement definitions.
+
+cannibal
+南方公园是一部美国成人动画情景剧
+
+up for grabs
+
+I could use a women's advice.
+
+bougeois	
+
+gnarly
+
+drape
+
+possum
+
+abracadabra
+
+incantation magic word spell enchantment stage magic
+
+believed to have healing powers when inscribed on an amulet
+marinara source
+
+cut loose: to beave or express yourself in a free or forceful way
+
+actions or behaviors that reflect a carefree, usually impulsive manner of doing what one pleases; living in the moment.
+
+impulsive: prone to act without thoughts; spontaneous
+
+marinara source: ususally made with toamtoes, garlic, herbs, and onions. Its many variations can include the addition of crapers, olives, spices, and a dash of wine.
+
+harrowing 
+
+distress: great pain
+
+pout: push one's lips forward as an expression of petulant annoyance or in order to make oneself look sexually attractive.
+
+go down the tube: to fail or to become even worse.
+
+bummer: a thing that is annoying or disappointing.
+
+bigot
+
+skankhunt
