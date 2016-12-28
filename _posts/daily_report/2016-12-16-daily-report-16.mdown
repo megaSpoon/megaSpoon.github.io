@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Report - 12/06
+title: Daily Report - 12/16
 description: "daily report -- record what I learned today"
 modified: 2016-11-01
 tags: [daily log, education, learning ]
