@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Daily Report - 11/07
+title: Daily Report - 01/06
 description: "daily report -- record what I learned today"
 modified: 2016-11-01
 tags: [daily log, education, learning ]
 image:
-  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
-  credit: huatunan
-  creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
+  feature: shuimojiangnan.jpg
 
 
 ---
@@ -18,13 +16,19 @@ Two numbers are congruent modulo a given number if they give the same remaainder
 
 
 平卧哑铃飞鸟技术细节:
-大小臂 呈135角 注意力放在胸中缝 而不是肩部 避免动作过程中颈部收紧而离开凳面
+
+大小臂 呈135角 注意力放在胸中缝 而不是肩部 
+
+避免动作过程中颈部收紧而离开凳面
 
 more details:
+
 整个臂形应撑圆，手腕略内收，形若环抱。如果仅以手臂紧张僵硬地勾住哑铃，发力就很容易以肩部为起动点，虽然看起来是在努力做飞鸟动作，其实是“貌合神离’，主要锻炼的是肩部三角肌前束，对胸肌中缝部的作用很小。
 
 backlog
+
 Apache Nutch
+
 Apache Lucene Core
 
 
@@ -40,38 +44,51 @@ find the balance between the world and yourself
 
 
 deflate:
+
 The truth beneath the country's triumph will utterly deflate people
 
 He look deflated.
 
 flagrant:
+
 Look at the examples of the NBA referees call a flagrant foul.
+
 Not flagrant enough?
 
 clearest indication
+
 president-elect
+
 rally:
+
 come together again in order to continue fighting after a defeat or dispersion
+
 The official commander rallied the deflated troops and turned them into fighters by his uncompetent charisma and under his charming aura.
 
 tepid
+
 slightly warm, lukewarm
+
 showing little enthusiasm
 
 The trading market has been recorved indicated by a tepid gain of 0.5%.
 
 take care
+
 Let me take care the last shot.
 
 intrepid
+
 James, the show host, our beloved mascot of BBS channel, cracked the door and walked into the darkness, showing its intrepid character in front of all the audience prepared for the final scene of a surprise birthday party.
 
 frenzy
+
 One way of controlling the frenzy is to analyze this feeling to let rationale swoop in your heart to cool it down.
 
 我和豆芽最不喜欢的一首歌名： 你不是真正的快乐
 
 I like the market since it's complex and comprehensive so that it will be much fun to make the correct prediction and decision. It's boring to do easy things while it's vital to be an easy man.
+
 I like analyse the syptoms of something on the surface to get one or two little knowledge of the nature in itself.
 
 所谓管理 就是做你所管区域 资源 人心的一层过滤网 做把关人
@@ -100,10 +117,38 @@ constantly touch/ consider sth
 play along
 Do you want me to play along for the sake of you?
 
+psyched up: mentally prepared
+
+He psychs himself up before racings by listening to heavy metal
+
+psyched out: get less confident
+
+She got psyched out when she didn't find her lucky coin
+
+tap out: have nothing left(resources of any kind)
+
+Hi Rach, 
+tap into: to use some of a supply of money, energy, ideas, etc
+
+Our employees have great energy and I think I can tap into it.
+
+Can I tap into your snack
+
+We have to tap into our savings to buy that car.
+
+tap for:
+
+You are asked to do something
+
+I am tapped to do the sentimental analysis.
+
+
+
 I'm still paly around with the logo
 consider the choice out of many
 
 JSON出现的背景：
+
 许多宣传关于 XML 如何拥有跨平台，跨语言的优势，但是：除非应用于 Web Services，否则，在普通的 Web 应用中，开发者经常为 XML 的解析伤透了脑筋，无论是服务器端生成或处理 XML，还是客户端用 JavaScript 解析 XML，都常常导致复杂的代码，极低的开发效率。实际上，对于大多数 Web 应用来说，他们根本不需要复杂的 XML 来传输数据，XML 的扩展性很少具有优势，许多 AJAX 应用甚至直接返回 HTML 片段来构建动态 Web 页面。和返回 XML 并解析它相比，返回 HTML 片段大大降低了系统的复杂性，但同时缺少了一定的灵活性。JSON的出现可以说是为了满足这方面的需求。方便轻松集成到HTML页面中以满足Ajax的要求。
 
 JSON 为 Web 应用开发者提供了另一种数据交换格式。同 XML 或 HTML 片段相比，JSON 提供了更好的简单性和灵活性。

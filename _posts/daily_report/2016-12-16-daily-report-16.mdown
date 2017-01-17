@@ -3,9 +3,9 @@ layout: post
 title: Daily Report - 12/16
 description: "daily report -- record what I learned today"
 modified: 2016-11-01
-tags: [daily log, education, learning ]
+tags: [daily log, black people ]
 image:
-  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
+  feature: animal-paintings-ink-on-paper-hua-tunan-12.jpg
   credit: huatunan
   creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
 
@@ -29,5 +29,49 @@ compute performance of ML and Data Analytics in Spark MLlib depends largely on n
 
 Intel's Math Kernel Library(MKL) is extensively used for boosting performance in High Performance Computing and more recently in Deep Learning workloads. MKL includes highly optimized BLAS, SCALAPack, vector math. FFTs,etc. primitives that have directly benefit many data analysis and statistical ML algorithms.
 
+KISS－Keep IT Simple, Stupid
+
+转自 知乎
+美国黑人有相当一部分生存于底层，主要是历史原因导致的，还是其自身原因导致的？
+
+姚冬的回答:
+
+这跟黑人是怎么来到美洲大陆有关。北美大陆原住民本来就很少，发现美洲大陆后随着陆续而来的欧洲移民，原住民就变得更少了。所以北美大陆基本都是移民，但是移民和移民不一样，他们移民过来的方式是不同的。黑人基本都是贩奴运动中被贩卖过来的奴隶的后代。思考下，什么人更容易被奴隶贩子抓捕或者欺骗而被贩卖，什么人在跨越大洋的航行中能克服恶劣的生存环境而存活下来，什么人更受奴隶主的欢迎可以繁衍后代。这些像一个个过滤器在数百年的时间里对黑人这个族群的特性做着筛选。就算你觉得他们是自身原因，这个自身原因也是历史进程赋予的。
+
+作者：姚冬
+链接：https://www.zhihu.com/question/52824317/answer/132457840
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
+作者：SubMoa
+链接：https://www.zhihu.com/question/52824317/answer/132326943
+来源：知乎
+著作权归作者所有，转载请联系作者获得授权。
+
+陈小春和郑伊健说过，很后悔拍了古惑仔，把一批青少年引入了歧途。不少黑人也是被美国电影和说唱引入了歧途，觉得黑人就应该露着半个内裤，拉帮结伙的卖白粉，所以这些孩子本身就无心向学。
+最开始穷可以说是历史造成的，都说知识改变命运，那么说几个教育上的真事。我家领导是小学老师，之前的学区盖了一所新校区，两所学校竞争，一所是刚搬了5年的，另一所也就是我家领导的学校，老校区快30年了。但是我家领导回来和我说，他们不可能赢，因为学生不够“黑”，最后出来的结果就是比较“黑”的搬进了最新的校区，我家领导的搬进人家留下的校区。最新的校区每班一台iMac，学生人手一个iPad，都是免费，也就是都是纳税人的钱，iPad坏了免费换，我家领导说去参观那个学校的时候，孩子拿iPad打架玩。按理说得了最好的教育资源，成绩应该不错吧？可是并没有，那所学校全学区倒数第二。
+黑人学生做错了事说不得，从家长那里学来了一套"black lives matter"，打了其他的小朋友，你说他他就说你种族歧视，然后告诉爸妈来学校闹。
+再有就是家长的不重视，虽然说大多数美国人都不怎么逼孩子学习，说那是孩子自己的事情，但是大多数黑人家长是真的彻底不管，家长会约了时间，到点不来，后来说因为约了做指甲或者弄头发。每次孩子不交作业都会通知家长，可是给黑人家长的邮件大多没有回音，后来改发短信，居然还有几个说别发了，很烦。
+小学六年级女生怀孕的觉得很不可思议么？更不可思议的是从黑人小男生嘴里知道的，因为他到处炫耀"I knocked her up, I'm a real n**a" 还有，四年级黑人小男生带着枪上学的，三年级给小女孩写纸条"you need my black dick"的。你一定觉得我媳妇在黑人区当老师吧？可是并没有，黑人只占不到15%，黑人区学校什么样我都不敢想。
+所以，从小就不学习，又没有王健林爸爸，甚至爸爸在哪都不知道，这就是很大一部分黑人孩子的现状。
+黑人中当然也有尽职尽责的家长和品学兼优的好孩子，比如今年领导终于成功换了工作，去了私立小学。班上最聪明学习最好也是最知书达理的一个孩子就是黑人，家访的时候才知道他家条件并不好，爸妈一个在麦当劳一个在沃尔玛工作，拿的几乎是底薪，私立学校学费绝对不是这种家庭正常能承担的，即使学校给他们免去了近一多半。他爸妈有的时候打多份工，一天工作十四五个小时，在几乎都是白人的地方租公寓，就是为了让孩子能够远离那些可能毁掉孩子一生的影响。我听了领导的描述，感觉这家长就是长江七号周星驰的原型。这个孩子未来现在预言太早，但是我相信是光明的。
+所以，到目前，2016年，大部分黑人穷在我看来就是自身原因。
+
+my idea:
+难以想象黑人对教育的不重视 自我反省不充足 有种族主义的道德至高点，然而资源与自身努力程度不足是劣势
+白人受宗教区分的影响很重
+
+家庭原因蛮重要的。
+认识的黑人朋友，基本都没有父亲。父母年轻时候上床，有孩子后男的立刻跑了。基本剧情就是这样。然后一家很多孩子都靠妈妈一个人拉扯，孩子数2-6个。
+不过他们都属于比较自强的家庭，妈妈说绝对不能领食物卷，政府救济
+据说baby dady这个词就是说黑人爸爸的，意思是有孩子就跑的无影无踪的孩子爹。
+还据说，在黑人区，父母双全的孩子会被歧视。
+
+刚想起来还有acting white。努力读书，勤劳上进的黑人小孩在黑人区会被歧视 说他们是acting white。模仿白人，学习白人。
+Excuse me，学习上进优秀的黑人孩子，是出卖他们种族文化，学习白人
+
+作者：samuler
+链接：https://www.zhihu.com/question/52824317/answer/132247138
+来源：知乎
+著作权归作者所有，转载请联系作者获得授权。

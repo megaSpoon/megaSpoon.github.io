@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Daily Report - 12/18
+title: Daily Report - 01/02
 description: "daily report -- record what I learned today"
 modified: 2016-11-01
 tags: [daily log, education, learning ]
 image:
-  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
-  credit: huatunan
-  creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
+  feature: bridge_and_water.jpg
 
 
 ---
@@ -23,7 +21,7 @@ spark: 1.6.0 -> 2.0.1
 Semi-private class org.apache.spark.Logging. We suggest you use slf4j directly.
 
 You can't make yourself rich by putting others down
-go do somehing productive by action not by your dirty mouth
+go do something productive by action not by your dirty mouth
 
 Don't get in our way
     

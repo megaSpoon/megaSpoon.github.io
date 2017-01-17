@@ -1,0 +1,35 @@
+---
+layout: post
+title: Daily Report - 01-07
+description: "daily report -- record what I learned today"
+modified: 2016-11-01
+tags: [daily log, education, learning ]
+image:
+  feature: shuimojiangnan1.jpg
+
+---
+
+Throughput:
+
+In general terms, throughput is the maximum rate of production or the maximum rate at which something can be processed. When used in the context of communication networks, such as Ethernet or packet radio, thoughput or network. Throughput is the successful message delivery over a communication channerl. The data these messages belong to may be delivered over a physical or logical link, or it can pass through a certain network node. Throughput is usually measured in bits/second, and sometimes in data packets per second or data packets per slot.
+
+your thoughput flatterns.
+It means that the metric graph of the messages delivered showing no high beam of loads while getting down and stretching low on the graph instead.
+
+灵性 = 性情相通，学习的至高境界。今天看performance analysis，观察到一个叫tuning的词，即为调参，感觉自己像极了一个钢琴的调音师。参数如同琴钮，虽然在程序里看不到旋转的动作，却能明显得感到程序如钢琴一样准备好最好的状态去呈现完美的performance。
+
+LightBend:
+
+offer some good industry reports and white books to gain more insight of the trend of application technology.
+
+RTN might rise tomorrow
+
+the inertia of the market trends during after-market hours.
+
+confirmation hearings definition. Meetings held by the Senate to gather information about candidates for federal office nominated by the president of the United States.
+
+希腊文化:
+
+[今日阅读之一][http://www.people.com.cn/BIG5/paper85/9749/897494.html]
+
+[今日阅读之二][http://www.jiapujidi.com/finance-632136.html]
