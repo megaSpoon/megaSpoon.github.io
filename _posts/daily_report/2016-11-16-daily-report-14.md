@@ -5,7 +5,7 @@ description: "daily report -- record what I learned today"
 modified: 2016-11-01
 tags: [daily log, education, learning ]
 image:
-  feature: animal-paintings-ink-on-paper-hua-tunan-19.jpg
+  feature: animal-paintings-ink-on-paper-hua-tunan-18.jpg
   credit: huatunan
   creditlink: http://www.demilked.com/animal-paintings-ink-on-paper-hua-tunan/
 
