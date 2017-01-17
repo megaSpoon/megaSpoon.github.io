@@ -14,4 +14,26 @@ image:
 
 无论黑暗多么得黑，只要有一颗明亮的星，便足以照亮我的夜空。
 
+email security:
 
+https://www.zhihu.com/question/19859637
+
+反编译 javap
+
+http://dreamhead.blogbus.com/logs/60217908.html
+
+在Scala里面的class和object在Java层面里面合二为一
+
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+    val t0 = System.nanoTime()
+
+    val t1 = System.nanoTime()
+
+     println("Elapsed time: " + (t1 - t0) / math.pow(10.0, 9.0) + "s")
+
+219.734575483s 212.520159212s 
+
+57.344864425s 

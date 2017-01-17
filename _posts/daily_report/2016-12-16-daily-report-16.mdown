@@ -25,3 +25,9 @@ community env of any programming area:
 
 e.g. https://www.scala-lang.org/community/
 
+compute performance of ML and Data Analytics in Spark MLlib depends largely on netlib-java and F2JBLAS/OpenBLAS via native Fortran in Breeze. 
+
+Intel's Math Kernel Library(MKL) is extensively used for boosting performance in High Performance Computing and more recently in Deep Learning workloads. MKL includes highly optimized BLAS, SCALAPack, vector math. FFTs,etc. primitives that have directly benefit many data analysis and statistical ML algorithms.
+
+
+
