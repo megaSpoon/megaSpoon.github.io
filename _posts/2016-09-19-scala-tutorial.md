@@ -15,7 +15,6 @@ This online tutorial gives us a comprehensive introduction of Scala's syntax and
 
 ---
 
-{% gist 5555251 %}
 
 # Begin with Hello World!
 
